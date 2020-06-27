@@ -1,0 +1,28 @@
+﻿  AmoObject.cpp
+  BaseObject.cpp
+  Common_Function.cpp
+  ExplosionObject.cpp
+  MainObject.cpp
+e:\project\projectgame\projectgame\mainobject.cpp(81): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+e:\project\projectgame\projectgame\mainobject.cpp(94): warning C4018: '<': signed/unsigned mismatch
+e:\project\projectgame\projectgame\mainobject.cpp(139): warning C4018: '<': signed/unsigned mismatch
+e:\project\projectgame\projectgame\mainobject.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  PlayerPower.cpp
+e:\project\projectgame\projectgame\playerpower.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  ThreatsObject.cpp
+e:\project\projectgame\projectgame\threatsobject.cpp(9): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+e:\project\projectgame\projectgame\threatsobject.cpp(21): warning C4018: '<': signed/unsigned mismatch
+e:\project\projectgame\projectgame\threatsobject.cpp(46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+e:\project\projectgame\projectgame\threatsobject.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\project\projectgame\projectgame\threatsobject.cpp(67): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+e:\project\projectgame\projectgame\threatsobject.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\project\projectgame\projectgame\threatsobject.cpp(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\project\projectgame\projectgame\threatsobject.cpp(104): warning C4018: '<': signed/unsigned mismatch
+e:\project\projectgame\projectgame\threatsobject.cpp(115): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  main.cpp
+e:\project\projectgame\projectgame\main.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\project\projectgame\projectgame\main.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\project\projectgame\projectgame\main.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\project\projectgame\projectgame\main.cpp(212): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ProjectGame.vcxproj -> E:\Project\ProjectGame\Debug\ProjectGame.exe
